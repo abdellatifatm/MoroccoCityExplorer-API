@@ -1,0 +1,17 @@
+{
+  "name": "moroccocityexplorer-api",
+  "version": "1.0.0",
+  "description": "MoroccoCityExplorer API provides detailed information about popular places in Moroccan cities. Access top tourist spots, historical landmarks, restaurants, and more. Ideal for travel apps, websites, and individual trip planning. Enhance your Moroccan travel experience with accurate and up-to-date data.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-server": "^1.0.0-beta.1"
+  }
+}

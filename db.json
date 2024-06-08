@@ -1,0 +1,112 @@
+{
+    "cities": [
+        {
+            "id": 1,
+            "name": "Marrakech",
+            "image": "https://images.unsplash.com/photo-1597212618440-806262de4f6b?q=80&w=2073&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "description": "Marrakech is known for its vibrant souks, historic palaces, and bustling medina.",
+            "most_popular_places": [
+                {
+                    "name": "Jemaa el-Fnaa",
+                    "description": "The main square of Marrakech, famous for its lively atmosphere, street performers, and market stalls.",
+                    "image": "https://images.unsplash.com/photo-1585004607620-fb4c44331e73?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                    "map_link": "https://maps.google.com/?q=Jemaa+el-Fnaa,+Marrakech"
+                },
+                {
+                    "name": "Bahia Palace",
+                    "description": "A beautiful 19th-century palace with lush gardens and stunning architecture.",
+                    "image": "https://images.unsplash.com/photo-1663297824621-27c5ff4cc826?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                    "map_link": "https://maps.google.com/?q=Bahia+Palace,+Marrakech"
+                }
+            ],
+            "restaurants": [
+                {
+                    "name": "Le Jardin",
+                    "address": "32 Souk El Jeld Sidi Abdelaziz, Medina, Marrakech 40030",
+                    "map_link": "https://maps.google.com/?q=32+Souk+El+Jeld+Sidi+Abdelaziz,+Medina,+Marrakech+40030",
+                    "cuisine": "Moroccan",
+                    "rating": 4.5
+                },
+                {
+                    "name": "Nomad",
+                    "address": "1 Derb Aarjane, Medina, Marrakech 40000",
+                    "map_link": "https://maps.google.com/?q=1+Derb+Aarjane,+Medina,+Marrakech+40000",
+                    "cuisine": "Modern Moroccan",
+                    "rating": 4.6
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Casablanca",
+            "image": "https://fnh.ma//uploads/actualites/63dbc9e6bf9a2_1000_F_356090312_SDM7YUgFmdTtpSWCObi5LsD7atfPQomi-transformed.jpeg",
+            "description": "Casablanca is a bustling metropolis known for its modern architecture and cultural landmarks.",
+            "most_popular_places": [
+                {
+                    "name": "Hassan II Mosque",
+                    "description": "One of the largest mosques in the world, known for its stunning architecture and oceanfront location.",
+                    "image": "https://mediaim.expedia.com/destination/1/1e5824822e62655d9377ce1bba1fc6c3.jpg",
+                    "map_link": "https://maps.google.com/?q=Hassan+II+Mosque,+Casablanca"
+                },
+                {
+                    "name": "Corniche Ain Diab",
+                    "description": "A popular beachfront area with restaurants, nightclubs, and entertainment venues.",
+                    "image": "https://www.maroc-maroc.com/wp-content/uploads/2023/04/2ulIW03dlkatMjECHziU9dSFQAK8YgR0FFTPOvsj.jpeg",
+                    "map_link": "https://maps.google.com/?q=Corniche+Ain+Diab,+Casablanca"
+                }
+            ],
+            "restaurants": [
+                {
+                    "name": "Rick's Cafe",
+                    "address": "248 Boulevard Sour Jdid, Casablanca 20250",
+                    "map_link": "https://maps.google.com/?q=248+Boulevard+Sour+Jdid,+Casablanca+20250",
+                    "cuisine": "International",
+                    "rating": 4.4
+                },
+                {
+                    "name": "La Sqala",
+                    "address": "Boulevard Des Almohades, Casablanca 20250",
+                    "map_link": "https://maps.google.com/?q=Boulevard+Des+Almohades,+Casablanca+20250",
+                    "cuisine": "Moroccan",
+                    "rating": 4.2
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Rabat",
+            "image": "https://www.oncf-lemarocagrandevitesse.com/img/rabat-capitale.jpg",
+            "description": "Rabat, the capital of Morocco, is known for its historical landmarks and stunning coastal views.",
+            "most_popular_places": [
+                {
+                    "name": "Kasbah of the Udayas",
+                    "description": "A historic fortress with beautiful gardens, offering stunning views of the Atlantic Ocean.",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/9/97/Kasbah_Oudayas_exterior.jpg",
+                    "map_link": "https://maps.google.com/?q=Kasbah+of+the+Udayas,+Rabat"
+                },
+                {
+                    "name": "Hassan Tower",
+                    "description": "An incomplete minaret of a mosque begun in 1195, surrounded by the ruins of the mosque and tomb of Mohammed V.",
+                    "image": "https://worldlist.vision/files/1070/sight_pic_big_3628.jpg",
+                    "map_link": "https://maps.google.com/?q=Hassan+Tower,+Rabat"
+                }
+            ],
+            "restaurants": [
+                {
+                    "name": "Dar Zaki",
+                    "address": "16 Rue des Consuls, Rabat 10000",
+                    "map_link": "https://maps.google.com/?q=16+Rue+des+Consuls,+Rabat+10000",
+                    "cuisine": "Moroccan",
+                    "rating": 4.7
+                },
+                {
+                    "name": "Le Dhow",
+                    "address": "Avenue Al Marsa, Rabat 10020",
+                    "map_link": "https://maps.google.com/?q=Avenue+Al+Marsa,+Rabat+10020",
+                    "cuisine": "International",
+                    "rating": 4.5
+                }
+            ]
+        }
+    ]
+}
